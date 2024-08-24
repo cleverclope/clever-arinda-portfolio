@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/clever-arinda-portfolio/static/css/main.549a8dea.css",
-    "main.js": "/clever-arinda-portfolio/static/js/main.c66f9c04.js",
+    "main.css": "/clever-arinda-portfolio/static/css/main.34d669fe.css",
+    "main.js": "/clever-arinda-portfolio/static/js/main.985f1cc2.js",
     "static/media/clever.png": "/clever-arinda-portfolio/static/media/clever.4bebb67d9bae812816b9.png",
     "static/media/CLEVER-ARINDA-CV.pdf": "/clever-arinda-portfolio/static/media/CLEVER-ARINDA-CV.6b4960ae8afe4da89bde.pdf",
     "index.html": "/clever-arinda-portfolio/index.html",
-    "main.549a8dea.css.map": "/clever-arinda-portfolio/static/css/main.549a8dea.css.map",
-    "main.c66f9c04.js.map": "/clever-arinda-portfolio/static/js/main.c66f9c04.js.map"
+    "main.34d669fe.css.map": "/clever-arinda-portfolio/static/css/main.34d669fe.css.map",
+    "main.985f1cc2.js.map": "/clever-arinda-portfolio/static/js/main.985f1cc2.js.map"
   },
   "entrypoints": [
-    "static/css/main.549a8dea.css",
-    "static/js/main.c66f9c04.js"
+    "static/css/main.34d669fe.css",
+    "static/js/main.985f1cc2.js"
   ]
 }
